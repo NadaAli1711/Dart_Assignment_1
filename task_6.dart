@@ -1,0 +1,5 @@
+// result will be
+// x = 4
+// y = 3
+// z = 3
+// w = 3
